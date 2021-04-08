@@ -29,4 +29,4 @@ class MyClient(discord.Client):
         await client.say("The Australian dollar is currently buying " + str(value) + " US dollars.") #test
 
 client = MyClient()
-client.run('NTg5MDkwOTYxMDE2MDk0NzMw.XQOnxg.bcqNtmVolZ_06wic6npyGM7tVwY')
+client.run('INSERT TOKEN HERE')
