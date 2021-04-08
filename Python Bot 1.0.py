@@ -17,4 +17,4 @@ class MyClient(discord.Client):
             await message.channel.send('Hello {0.author.mention}'.format(message))
 
 client = MyClient()
-client.run('NTg5MDkwOTYxMDE2MDk0NzMw.XQOnxg.bcqNtmVolZ_06wic6npyGM7tVwY')
+client.run('INSERT TOKEN HERE')
