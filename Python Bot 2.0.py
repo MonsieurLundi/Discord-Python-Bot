@@ -17,4 +17,4 @@ class MyClient(discord.Client):
                 await message.delete()
 
 client = MyClient()
-client.run('NTg5MDkwOTYxMDE2MDk0NzMw.XQOnxg.bcqNtmVolZ_06wic6npyGM7tVwY')
+client.run('INSERT TOKEN HERE')
